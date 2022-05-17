@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "debris": {
+      "commandName": "Project",
+      "commandLineArgs": "-u username 1982-092A",
+      "environmentVariables": {
+        "SPACETRACK_PASSWORD": "password"
+      }
+    }
+  }
+}
