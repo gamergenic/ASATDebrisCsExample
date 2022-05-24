@@ -41,4 +41,4 @@ In this post we're going to:
 * Submit a `gp` query to get orbital data for a group of debris objects associated with an anti-satellite weapons test 
 
 Full Tutorial:  
-[ASATDebrisCsExample on GitHub](https://stupidrockettricks.com/post/asat-cs/)
+[ASAT Code Tutorial 2: Process SatCat data yourself in a C# Application](https://stupidrockettricks.com/post/asat-cs/)  
